@@ -1,2 +1,2 @@
 # JavaExercises
-Solutions to Java Exercises
+These are my solutions to the Java Code Gym exercises
