@@ -16,7 +16,7 @@ public class TimeMachine {
         System.out.println(currentYear);
 
         //primitive variables in java are passed by value. A copy of the variable is made so the original value is unchanged.
-        timeMachine.goToPast(2018));
+        timeMachine.goToPast(currentYear);
         System.out.println("How about now?");
         System.out.println(currentYear);
     }
